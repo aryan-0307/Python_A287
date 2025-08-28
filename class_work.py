@@ -43,3 +43,13 @@ myFunc()
 
 
 print("python is always  "+x)
+
+
+var1 = 1
+var2 = True
+var3 = 18.023
+var4 = 10+3j
+print(type(var1))
+print(type(var2))
+print(type(var3))
+print(type(var4)) 
