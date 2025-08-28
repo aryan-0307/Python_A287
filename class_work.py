@@ -8,9 +8,9 @@ print(Age)
 
 a=b=c=20
 # camel case
-myNameIs="Ayush"
+myNameIs="Aryan"
 # Snake case
-My_Name_Is="Gupta"
+My_Name_Is="Dixit"
 # pascal case
 
 print(myNameIs)
